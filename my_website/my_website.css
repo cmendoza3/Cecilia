@@ -1,0 +1,37 @@
+
+h1 {
+     font-family: "Georgia";
+     text-align: center
+     font-size: 20px;
+    }
+    
+h2 {
+     font-family: "Comic Sans MS";
+     text-align: center
+    }
+    
+p {
+    font-family: "Comic Sans MS";
+    font-size: 18px;
+     border-radius: 10px;
+     border: 3px solid darkmagenta;
+    
+}
+
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
+body {
+    
+    background-color: thistle;
+}
+
+
+
+title {
+    font-family: "Georgia";
+     text-align: center
+     font-size: 20px;
+    }
